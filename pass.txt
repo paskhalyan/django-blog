@@ -1,0 +1,3 @@
+username: admin
+email: admin@blog.am
+password: django1.11
